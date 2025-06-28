@@ -25,7 +25,7 @@ gitpython
 glitch_this
 google_images_download
 google_trans_new
-googletrans==4.0.2rc1
+googletrans==4.0.2
 gtts
 hachoir
 hentai
